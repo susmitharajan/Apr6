@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icons_bag_black" data-name="icons/bag/black" clip-path="url(#clip-path)">
+    <rect id="bounds" width="20" height="20" fill="none"/>
+    <path id="Path" d="M1.853,0A1,1,0,0,0,.858.9l-.841,8A1,1,0,0,0,1.012,10h13.95a1,1,0,0,0,1-1.093l-.749-8a1,1,0,0,0-1-.907Z" transform="translate(2.016 8)" fill="none" stroke="#2e2e2e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-2" data-name="Path" d="M0,7.986V7.979C.014,4.2,4.223,0,8,0H8V8.01" transform="translate(6 2)" fill="none" stroke="#2e2e2e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
